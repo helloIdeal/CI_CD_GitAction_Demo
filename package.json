@@ -2,7 +2,7 @@
   "name": "my-product-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rennysu.github.io/CL_CD_GitAction_Demo",
+  "homepage": "https://helloideal.github.io/CL_CD_GitAction_Demo",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.0",
